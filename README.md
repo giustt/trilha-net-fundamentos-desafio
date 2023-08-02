@@ -1,5 +1,5 @@
 # DIO - Trilha .NET - Fundamentos
-www.dio.me
+[Acesse a Formação Aqui!!](https://dio.me/curso-dot-net/AFP91V965NCA)
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
